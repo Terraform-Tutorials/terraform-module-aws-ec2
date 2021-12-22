@@ -3,7 +3,7 @@
 Just a case using a modules in Terraform
 
 ```shell
- tree
+$ tree
 .
 ├── README.md
 ├── main.tf
