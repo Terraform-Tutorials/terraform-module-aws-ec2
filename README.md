@@ -1,6 +1,6 @@
 # terraform-module-aws-ec2
 
-Just a case using a modules in Terraform
+Just a case using modules in Terraform to provision an EC2 instance.
 
 ```shell
 $ tree
